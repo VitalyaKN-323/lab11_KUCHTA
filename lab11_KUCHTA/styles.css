@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+}
